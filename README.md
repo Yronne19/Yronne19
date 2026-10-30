@@ -35,5 +35,3 @@
   <img src="https://profilyze.vercel.app/api/github/stats?user=Yronne19&theme=github-dark" alt="GitHub stats" height="180" />
   <img src="https://profilyze.vercel.app/api/github/languages?user=Yronne19&theme=github-dark" alt="Top languages" height="180" />
 </p>
-
-<sub>Made with [Profilyze](https://profilyze.vercel.app)</sub>
